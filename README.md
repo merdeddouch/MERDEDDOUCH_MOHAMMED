@@ -1,1 +1,1 @@
-# <p align="center" style="color:red;">MERDEDDOUCH MOHAMMED</p>
+<h1 align="center"><font color="red">MERDEDDOUCH MOHAMMED</font></h1>
